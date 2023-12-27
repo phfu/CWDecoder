@@ -49,8 +49,6 @@
  Adapted for the ESP32/ESP8266 by G6EJD  
 */
 
-#define TFT4 
-
 // F4LAA : Using TFT4 SPI display
 #include "SPI.h"
 #include "TFT_eSPI.h"
